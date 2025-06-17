@@ -1,0 +1,1 @@
+{"schema":"v1","records":[{"type":"ENVIRONMENT","operation":"CREATED","data":[{"data":"Added packages through apt package manager: r-base, r-base-dev, libcurl4-openssl-dev, libssl-dev, libxml2-dev, libfontconfig1-dev, libharfbuzz-dev, libfribidi-dev","mime":"text/plain"}],"important":null}]}
