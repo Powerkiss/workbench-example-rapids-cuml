@@ -1,1 +1,9 @@
 # apt packages to install should be listed one per line
+r-base
+r-base-dev
+libcurl4-openssl-dev
+libssl-dev
+libxml2-dev
+libfontconfig1-dev
+libharfbuzz-dev
+libfribidi-dev
